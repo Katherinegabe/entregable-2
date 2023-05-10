@@ -1,0 +1,26 @@
+.container_principal {
+    width: 350px;
+    height: 370px;
+    margin: 100px;
+    border: 2px solid rgb(141, 141, 141);
+    border-radius: 5%;
+    background-color:rgb(62, 91, 105);
+}
+
+.container_principal h1 {
+    margin: 20px;
+    color: rgb(240, 240, 238);
+    text-align: center; 
+}
+
+.second_container {
+    margin-left: 15px;
+    font-size: large;
+    color: rgb(208, 212, 214);
+}
+
+.container_principal button {
+    margin-left: 130px;
+    border: 1px solid rgb(17, 16, 16);
+    background-color: rgb(228, 225, 220);
+}
